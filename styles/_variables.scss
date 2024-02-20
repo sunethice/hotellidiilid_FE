@@ -1,0 +1,54 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap");
+// @import url("https://fonts.googleapis.com/css?family=Poppins:500&display=swap");
+
+:root {
+    --card_width: 350px;
+    --row_increment: 10px;
+    --card_border_radius: 16px;
+    --card_small: 25;
+    --card_medium: 50;
+    --card_large: 75;
+}
+
+/* Global vars */
+$primary_color: #25aae1;
+$secondary_color: #2c2c2c;
+$tertiary_color: #9fbfcc;
+$dark_color: #23201f;
+$success_color: #36880d;
+$warning_color: #a16a0b;
+$primary_font: "Lato", sans-serif;
+
+/* Bootstrap overrides */
+$theme-colors: (
+   "primary": $primary_color,
+   "secondary": $secondary_color,
+   "success": $success_color,
+   "warning": $warning_color,
+   "dark": $dark_color,
+);
+// general ------------------------
+// $body-bg :#FFF;
+// $body-color: $primary_color;
+// $font-size-base: 0.8rem;
+$font-family-base: $primary_font;
+// $border-radius:2rem;
+// $enable-rounded: true;
+// $border-width:0.5px;
+
+// headings ------------------------
+$headings-font-family: "Poppins", "Roboto", sans-serif;
+// $headings-font-weight : 700;
+
+// navbar ------------------------
+$navbar-light-color: $primary_color;
+$navbar-light-hover-color: $secondary_color;
+$navbar-light-active-color: $primary_color;
+$navbar-nav-link-padding-x: 0.9rem;
+// $navbar-dark-active-color : $primary_color;
+
+// buttons ------------------------
+$btn-border-radius: 0.5rem;
+$btn-border-radius-lg: 0.5rem;
+$btn-border-radius-sm: 0.5rem;

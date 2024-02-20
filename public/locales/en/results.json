@@ -1,0 +1,21 @@
+{
+   "title": "Search result",
+   "loading":"...Loading results",
+   "no_results":"No results found.",
+   "results_found":"Results Found",
+   "banner_nights":"night(s)",
+   "sort":{
+      "PRLH": "Price Low To High",
+      "PRHL": "Price High To Low",
+      "SRLH": "Star Rating Low To High",
+      "SRHL": "Star Rating High To Low",
+      "HNLH": "Hotel Names A To Z",
+      "HNHL": "Hotel Names Z To A"
+   },
+   "content_item":{
+      "reviews":"reviews",
+      "price_for":"price for",
+      "select_hotel":"Select Hotel",
+      "nights":"Night(s)"
+   }
+}

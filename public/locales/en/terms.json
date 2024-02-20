@@ -1,0 +1,60 @@
+{
+    "heading":"Hotellidiilid.ee Terms and Conditions",
+    "description":"The following terms are valid from 01.05.2019. The terms will be applied to all bookings made at Hotellidiilid.ee. The Client will accept the terms by default once a booking has been made at Hotellidiilid.ee",
+    "point1":"Definitions",
+    "point2":"Payment",
+    "point3":"Taxes and surcharges",
+    "point4":"Booking Reservation Changes and Cancellation Policy",
+    "point5":"Overbooking",
+    "point6":"Travel Documents and Voucher",
+    "point7":"Check-in and Check-out",
+    "point8":"Accommodation Classification",
+    "point9":"Issues with the Service",
+    "point10":"Rooms and Beds",
+    "point11":"Limits",
+    "point12":"Right of Withdrawal",
+    "point13":"Personal Information and Privacy",
+    "point14":"Responsibility",
+
+    "desc1_1":"Agent – Reisidiilid OÜ (Register code: 12472112)",
+    "desc1_2":"An authorized sales agent or broker of Travel Services provided by the Service Provider. The Agent will act as an intermediary between the Client and Service Provider, but has no other involvement between any bookings and deals made between the Client and Service Provider.",
+    "desc1_3":"Client",
+    "desc1_4":"A natural or legal person who uses the provided Sales Environment and / or otherwise expresses an interest in concluding or concluding a Travel Service Agreement with the Service Provider through the Agent.",
+    "desc1_5":"Travel Service",
+    "desc1_6":"Any service provided by the Service Provider made available by the Agent at",
+    "desc1_7":"Service Provider",
+    "desc1_8":"Accommodation establishment (eg hotel, apartment, lodge, etc.) -  a company with which the Client wishes to enter into and / or conclude the service contract.",
+    "desc1_9":"Sales Environment",
+    "desc1_10":"Booking system made available by the Agent at Hotellidiilid.ee, which offers Travel Services provided by Service Providers in real time.",
+    "desc1_11":"Voucher",
+    "desc1_12":"Booking Confirmation provided by the Agent to the Client, which must be presented at the property to certify the right to receive the Service from the Service Provider to the extent indicated on the Voucher. The voucher is in electronic form, but should be provided to the Service Provider in printed out on paper form by the Client.",
+
+      
+    "desc2_1":"If the Client has paid for the accommodation service in the Sales Environment and the payment has been received, the booking system will automatically send the Client a Voucher confirming the reservation, which must be presented to a representative at the accommodation establishment in printed  form. If the Voucher has not been received by the customer within 24 hours after the booking has been made, the Client must inform",
+    "desc2_2":"as soon as possible.",
+    "desc2_3":"Hotellidiilid.ee offers payment options provided by Maksekeskus AS. Payments can be made by credit cards and through most banks operating in Estonia via a bank link - Swedbank, SEB, Luminor, LHV, Coop, Pocopay and Liisi ID. The acceptable currency is Euro.",
+
+    "desc3_1":"Local taxes (eg, tourist and city tax) may apply and are not included in the room rate and are payable directly at the accommodation establishment. These taxes vary by destination and may depend on the classification of the accommodation establishment. These fees must be paid by the Client in addition to the amount paid by the Client for the booking to the Agent. For more information about applicable fees and their amounts,  please contact",
+    "desc3_2":"or the Service Provider.",
+    "desc3_3":"The Client  is obligated to pay for all additional services provided at the accommodation establishment, which are not included in the price, ie not reflected in the voucher (eg additional meals at the hotel, use of the minibar at the accommodation, spa services, etc.)",
+
+
+    "desc4":"Changes and cancellations related to the accommodation establishment must be made through the Agent and thus may be charged in accordance with the rules established by the Service Provider. Cancellation policies and fees are stated in the 'Cancellation Policy' at the booking process. If there are no cancellation policy information added, the Client should contact the Agent regarding the matter. In case of non-arrival or premature departure (check-out) from the accommodation establishment, the Service Provider or Agent is not obliged to return the money to the Client. When booking an accommodation, the Client agrees by default to the terms and conditions of the cancellation and changes policy.",
+
+    "desc5":"Should it turn out that the accommodation establishment has been overbooked (the Service Provider has sold more rooms than it has available), the Service Provider (if necessary, through the Agent) is obliged to offer the Client an alternative accommodation of the same type, and if the alternative is not suitable for the Client, return all of money paid for the booking to the Client.",
+    
+    "desc6":"Upon arrival and check-in, all guests must present a personal identification document (such as a passport or ID-card and sometimes even a visa) and a printed out Voucher for the accommodation establishment, which will be provided by the Agent upon making the booking.",
+    "desc7_1":"Check-in usually starts from 14:00 to 16:00 (2-4pm), depending on the rules set by the Service Provider. If the customer arrives after 19:00 (7pm), the Client should inform the property in advance, for example, not all accommodation establishments offer 24-hour check-ins and have to be notified in advance. If the property in question does not have a reception and / or check-in desk, the Client should contact the Service Provider in advance. This mostly applies to apartment bookings.",
+    "desc7_2":"Check-out usually takes place between 10:00 and 12:00 (10-12am), depending on the rules set by the Service Provider. Some establishments offer a late check-out option depending on availability. This service might cost extra.",
+    
+    "desc8":"The star rating for accommodation establishments (mostly hotels) is a rating system that refers to the quality level of the establishment. Different countries may have very different levels of hotels with the same star rating. The stars given to the properties may change over time, so the stars in the Sales Environment may not always be up to date. Therefore, it is advisable to confirm the stars on the hotel website before booking or to ask for more information from the Agent.",
+
+    "desc9":"We advise you to contact the Service Provider immediately if problems should appear - many problems can be solved most effectively on the spot (e.g hotel). The Agent offers a Sales Environment for booking the accommodation and is not responsible for the quality of the on-site service provided by the Service Provider.",
+
+    "desc10":"The Service Provider is not responsible for the bookings when it comes to room location and bed type. For example, when booking a two rooms, the Agent cannot guarantee that the booked rooms are next to each other or what bed type they have. However, it is guaranteed that the number of people listed on the voucher will be accommodated in the room, but the bedding situation will depend on the availability of the accommodation establishment (unless the room type is specifically marked by the type of bedding). Larger rooms generally include an extra bed or sofa bed in addition to the main bed.",
+    "desc11_1":"In some Islamic countries (eg the United Arab Emirates), a man and a woman may share a room in some establishments only if they are legally married. In some countries (eg USA), you may be required to be at least 21 years of age at the time of making the booking. In some hotels personal credit card is required and must be presented.",
+    "desc11_2":"The Agent is not responsible if the Client has not determined whether there are any restrictions in the provided accommodation establishment. Information on restrictions can be obtained either by contacting the Service Provider or by contacting the Agent via e-mail",
+    "desc12":"As the Law of Obligations Act states, withdrawal from contracts concluded for the provision of accommodation, catering and leisure services by means of distance communication (eg e-mail and telephone) is not permitted (§ 53 (72)). The Client must be aware that the purchase of the aforementioned accommodation service might not have free cancellation of the confirmed order within 14 days. Free cancellation is possible if permitted by the cancellation policy of the Service Provider, which can be seen during the booking process.",
+    "desc13":"The Agent will follow the Privacy Policy of Hotellidiilid.ee, which can be found under our Privacy Policy.",
+    "desc14":"The legal relations between the Client and the Agent shall be governed by the legislation of the Republic of Estonia. Disputes are sought through negotiation. If they are not reached, disputes will be resolved either by the Consumer Disputes Committee or the Harju County Court."
+}

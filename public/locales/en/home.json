@@ -1,0 +1,35 @@
+{
+   "title": "Hotellidiilid.ee - soodsad hotellid",
+   "search_widget":{
+      "enter_destination":"Enter Destination",
+      "check_in":"Check In",
+      "check_out":"Check Out",
+      "nights":"Nights",
+      "rooms":"Rooms",
+      "room":"Room",
+      "adults":"Adults",
+      "children":"Children",
+      "age_of_children":"Age of Children",
+      "search":"Search"
+   },
+   "placeholders":{
+      "type_loc":"Type location",
+      "check_in":"Check-In",
+      "check_out":"Check-Out",
+      "no_of_nights":"No of Nights"
+   },
+   "popular_destinations":{
+      "heading":"Popular Destinations",
+      "description_pt1":"Below list based on popularity and you can see ",
+      "description_pt2":"all destinations here"
+   },
+   "advantages":{
+      "adv1":"More than 170,000+ Hotels and Properties",
+      "adv2":"Affordable Prices",
+      "adv3":"Customer support in English and Estonian",
+      "adv4":"Bank Link + Card payments accepted"
+   },
+   "seasonal_offers" : "Seasonal Offers",
+   "offer_description" : "Best prices to make your holiday dream a reality",
+   "search_availability" : "search availability"
+}

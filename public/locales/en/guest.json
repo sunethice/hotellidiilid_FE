@@ -1,0 +1,45 @@
+{
+   "title": "guest details",
+   "sidebar_search":{
+      "enter_destination":"Enter Destination",
+      "check_in":"Check In",
+      "check_out":"Check Out",
+      "nights":"Nights",
+      "rooms":"Rooms",
+      "room":"Room",
+      "adults":"Adults",
+      "children":"Children",
+      "age_of_children":"Age of Children",
+      "search":"Search"
+   },
+   "filter_by_star_rating":"Filter By Star Rating",
+   "filter_by_hotel_name":"Filter By Hotel Name",
+   "filter_by_price":"Filter By price",
+   "filter_by_distance":"Filter By Distance from city",
+   "filter_by_trip_advisor":"Filter By Trip Advisor Ratings",
+   "star":"Star",
+   "loading":"...Loading results",
+   "no_results":"No results found.",
+   "results_found":"Results Found.",
+   "banner_nights":"night(s)",
+   "sort":{
+      "PRLH": "Price Low To High",
+      "PRHL": "Price High To Low",
+      "SRLH": "Star Rating Low To High",
+      "SRHL": "Star Rating High To Low",
+      "HNLH": "Hotel Names A To Z",
+      "HNHL": "Hotel Names Z To A"
+   },
+   "view_map":"View Map",
+   "view_more":"View More",
+   "features":"Features",
+   "hotel_details":"Hotel Details",
+   "rooms_results":{
+      "heading":"Your search results",
+      "tb_head_1":"ROOM TYPE",
+      "tb_head_2":"ROOMS",
+      "tb_head_3":"TOTAL RATE",
+      "book_now":"Book Now"
+   },
+   "see_all_images":"See all images"
+}

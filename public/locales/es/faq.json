@@ -1,0 +1,22 @@
+{
+    "qu1":"Kellele kuulub broneerimiskeskkond hotellidiilid.ee?",
+    "qu2":"Kus on kirjas hotellide t&uuml;histamistingimused?",
+    "qu3":"Kuidas saab muuta v&otilde;i t&uuml;histada broneeringut?",
+    "qu4":"Kui broneering t&uuml;histada, siis millal saab raha tagasi?",
+    "qu5":"Kus on kirjas broneerimistingimused?",
+    "qu6":"Kuidas saab broneeringu eest maksa?",
+    "qu7":"Mida teha kui makse eba&otilde;nnestub?",
+    "qu8":"Kas on v&otilde;imalik saada ka arve? (n&auml;iteks ettev&otilde;ttele)",
+    "qu9":"Kuidas ja millal saan k&auml;tte broneeritud hotelli voucheri",
+    "ans1":"Hotellidiilid.ee kuulub Eesti turismiettev&otilde;ttele Reisidiilid O&Uuml;, kelle oma on tuntud reisiportaal reisidiilid.ee. Hotellidiilide eesm&auml;rk on pakkuda Eesti inimestele v&otilde;imalustbroneerida soodsa hinnaga hotelle &uuml;le maailma.",
+    "ans2":"Hotellide t&uuml;histamistingimused on hotelliti erinevad ja seet&otilde;ttu tuleb neile t&auml;helepanu p&ouml;&ouml;rata hotelli broneerides. T&uuml;histamisreeglid ja tasud on kirjas majutusasutuse broneeringut tehes lingi all &quot;Majutuse t&uuml;histamispoliitika&quot;.",
+    "ans3_p1":"Majutuse t&uuml;histamiseks v&otilde;i muutmiseks v&otilde;tke &uuml;hendust hotellidiilid.ee klienditeenindusega",
+    "ans3_p2":"T&uuml;histamise ja muutmise v&otilde;malikkus s&otilde;ltub antud hotelli broneerimistingimustest.",
+    "ans4":"T&uuml;histatud broneeringu eest kanname raha tagasi 7 t&ouml;&ouml;p&auml;eva jooksul.",
+    "ans5":"Broneerimistingimused leiab veebilehe jaluses olevalt lingilt &bdquo;Tingimused&ldquo;. Samuti on link tingimustele n&auml;htav enne broneeringu eest maksmist. Enne broneeringu eest tasumist tuleb kliendil broneerimistingimustega n&otilde;ustuda tehes tingimuste lingi ette vastav linnuke.",
+    "ans6":"Hotellidiilid.ee keskkonnas saab maksta Maksekeskus AS pakutava makseliidese abil. Makseliides v&otilde;imaldab maksta n&auml;iteks nii krediitkaardi kui ka pangalingiga (Eestis: Swedbank, SEB, Luminor, LHV, Coop, Pocopay ja Liisi ID).",
+    "ans7":"Kui maksimisel esineb probleeme, siis v&otilde;tke &uuml;hendust hotellidiilid.ee klienditeenindusega",
+    "ans8":"Arvet on v&otilde;imalik saada nii eraisikule kui ettev&otilde;ttele. Selleks v&otilde;tke &uuml;hendust hotellidiilid.ee klienditeenindusega",
+    "ans9":"Voucher saadetakse automaatselt broneeringu tegemisel sisestatud e-maili aadressile. Kui voucher ei ole postkasti m&otilde;ne aja m&ouml;&ouml;dudes j&otilde;udnud, kontrollige enda &bdquo;spam kausta&ldquo;. Kui ka seal pole voucherit, siis v&otilde;tke &uuml;hendust hotellidiilid.ee klienditeenindusega",
+    "goto_top":"&#252;lesse"
+}

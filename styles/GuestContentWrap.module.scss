@@ -1,0 +1,91 @@
+.address{
+   font-size: 12px;
+   margin-top: 3px;
+}
+
+.basic_info_wrap{
+   height:500px;
+}
+
+.room_info_wrap{
+   height:auto;
+}
+
+.room_rate{
+   font-size: 16px;
+   color:#ff3d5e;
+}
+
+.gallery_wrap{
+   height: auto;
+}
+
+.aval_room{
+   font-size: 13px;
+}
+
+.book_now{
+   font-size: 13px;
+}
+
+.checked {
+   color: orange;
+}
+
+.tabs{
+   width:100%;
+}
+
+.tab_content{
+   min-width:100% !important;
+}
+
+.tab{
+   font-size: 11px;
+   color:#444;
+   background-color: #fff;
+   width: 100%;
+   min-height: 200px;
+   padding:20px;
+}
+
+.features{
+   width:100%;
+}
+.textsize{
+   font-size: 15px;
+}
+.feature_check{
+   color:#25aae1;
+}
+
+.loading_gif {
+   width: 150px;
+}
+
+.map_wrapper{
+   width: 100%;
+   height: 300px;
+}
+
+.gallery_view_more {
+   width: 100%;
+   height: 155px;
+   display: display-block;
+   background-color: #ebebeb;
+   font-size: 14px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+   // padding: 3px;
+}
+
+.gallery_item {
+   width: 100%;
+   height: 160px;
+   padding: 3px;
+   display: display-block;
+   cursor: pointer;
+   object-fit: cover;
+}

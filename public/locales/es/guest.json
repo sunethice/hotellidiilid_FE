@@ -1,0 +1,45 @@
+{
+   "title": "külalise üksikasjad",
+   "sidebar_search":{
+      "enter_destination":"Sihtkoht",
+      "check_in":"Saabumine",
+      "check_out":"Lahkumine",
+      "nights":"Ööd",
+      "rooms":"Toad",
+      "room":"Tuba",
+      "adults":"Täiskasvanud",
+      "children":"Lapsed",
+      "age_of_children":"Lapse vanus",
+      "search":"Otsi"
+   },
+   "filter_by_star_rating":"Hotelli tärnid",
+   "filter_by_hotel_name":"Otsi hotelli nime järgi",
+   "filter_by_price":"Hinnavahemik",
+   "filter_by_distance":"Kaugus keskusest",
+   "filter_by_trip_advisor":"Tripadvisori hinnangud",
+   "star":"Tärni",
+   "loading":"...Tulemuste laadimine",
+   "no_results":"Tulemusi ei leitud.",
+   "results_found":"tulemust",
+   "banner_nights":"ööks",
+   "sort":{
+      "PRLH": "Hind: soodsamad enne",
+      "PRHL": "Hind: kallimad enne",
+      "SRLH": "Tärnid: madalamad enne",
+      "SRHL": "Tärnid: kõrgemad enne",
+      "HNLH": "Hotelli nimi: A kuni Z",
+      "HNHL": "Hotelli nimi: Z kuni A"
+   },
+   "view_map":"Vaata kaardilt",
+   "view_more":"Kuva rohkem",
+   "features":"Hotelli mugavused",
+   "hotel_details":"Hotelli kirjeldus",
+   "rooms_results":{
+      "heading":"Saadavad toad",
+      "tb_head_1":"Toa tüüp",
+      "tb_head_2":"Tubade hulk",
+      "tb_head_3":"Hind kokku",
+      "book_now":"Broneeri"
+   },
+   "see_all_images":"Kõik fotod"
+}

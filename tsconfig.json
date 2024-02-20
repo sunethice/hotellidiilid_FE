@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "pages/Results.jsx", "redux/store.js", "components/Results/ContentItem.jsx", "components/Results/ContentWrap.jsx", "components/Results/Map.jsx", "components/Results/SideBar.jsx", "components/Common/SearchWidget.jsx", "pages/index.jsx", "pages/_app.jsx", "core/frontend/http-service/hb.http.js", "core/frontend/http-service/api.js", "components/Layout.jsx", "components/Footer.jsx", "components/Results/Banner.jsx", "components/Home/PopularDestinations.jsx", "components/Home/HomeCarousel.jsx", "components/Data/SearchWidgetData.js", "components/Data/SearchWidgetData.js", "components/Header.jsx", "components/Data/helper.js", "core/cache.js", "core/backend/middleware/request-handler.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

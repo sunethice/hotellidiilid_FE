@@ -1,0 +1,33 @@
+{
+  "about": "About-es",
+  "sidebar_search":{
+      "enter_destination":"Sihtkoht",
+      "check_in":"Saabumine",
+      "check_out":"Lahkumine",
+      "nights":"Ööd",
+      "rooms":"Toad",
+      "room":"Tuba",
+      "adults":"Täiskasvanud",
+      "children":"Lapsed",
+      "age_of_children":"Lapse vanus",
+      "search":"Otsi"
+   },
+   "filter_by_star_rating":"Hotelli tärnid",
+   "filter_by_hotel_name":"Otsi hotelli nime järgi",
+   "filter_by_price":"Hinnavahemik",
+   "filter_by_distance":"Kaugus keskusest",
+   "filter_by_trip_advisor":"Tripadvisori hinnangud",
+   "filter_by_board_type":"Toitlustustüübi filter",
+   "star":"Tärni",
+   "placeholders":{
+      "type_loc":"Type location",
+      "check_in":"Saabumine",
+      "check_out":"Lahkumine",
+      "no_of_nights":"Ööde arv",
+      "enter_hotel" : "Sisesta hotelli nimi"
+   },
+   "login":"Logi sisse",
+   "pev":"Eelmine",
+   "nxt":"Järgmine",
+   "why_hotellidiilid.ee":"Miks hotellidiilid.ee?"
+}

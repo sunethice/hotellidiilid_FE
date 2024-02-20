@@ -1,0 +1,30 @@
+.font_size_13 {
+   font-size: 13px;
+}
+
+.form_control {
+   font-size: 13px;
+   background: transparent;
+   color: #7e7e7e;
+   font-weight: 600;
+   /* border-bottom: 1px solid #8c8c8c; */
+
+   input {
+      font-size: 13px;
+      background: transparent;
+      color: #7e7e7e;
+      font-weight: 600;
+   }
+}
+
+.form_control_datepicker {
+   height: 38px;
+}
+
+// .room_row {
+//    margin: 4px 1px;
+// }
+
+.invalid_feedback{
+   color: #ff3d5e;
+}

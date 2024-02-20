@@ -1,0 +1,22 @@
+{
+    "qu1":"Who owns hoteliilidid.com?",
+    "qu2":"Where are the hotel cancellation policies?",
+    "qu3":"How do I change or cancel a booking?",
+    "qu4":"When can I cancel a booking, when will my money be refunded?",
+    "qu5":"Where are the booking terms written?",
+    "qu6":"How do I get paid for my booking?",
+    "qu7":"What if the payment fails?",
+    "qu8":"Can I get an invoice? (for example, a company)",
+    "qu9":"How and when do I get a booked hotel voucher?",
+    "ans1":"Hotellidiilid.ee is owned by the Estonian travel company Reisidiilid Ltd, whose own travel portal travelstyle.com. The purpose of the hotel stays is to offer the Estonian people the opportunity to book hotels at affordable prices around the world.",
+    "ans2":"Hotel cancellation policies vary from hotel to hotel, so you must pay attention to hotel bookings. Cancellation policies and fees are stated in the property's reservation link under 'Cancellation Policy'.",
+    "ans3_p1":"Please contact hoteliilid.ee customer service to cancel or change your accommodation",
+    "ans3_p2":"The possibility of cancellation and change depends on the booking conditions of this hotel.",
+    "ans4":"We will refund you for the canceled booking within 7 business days.",
+    "ans5":"Booking conditions can be found in the 'Terms' link on the web site footer. The link is also visible before the reservation is made. Before paying for the booking, the customer must agree to the terms and conditions of the booking by ticking the appropriate link.",
+    "ans6":"You can pay with the payment interface provided by Maksekeskus AS in the hotelidid.ee environment. For example, the payment interface allows you to pay with both a credit card and a bank link (in Estonia: Swedbank, SEB, Luminor, LHV, Coop, Pocopay and Liisi ID).",
+    "ans7":"If you're having trouble paying, contact hoteliilid.ee customer service",
+    "ans8":"It is possible to receive an invoice for both the individual and the company. Please contact hoteliilid.ee customer service for this",
+    "ans9":"The voucher is automatically sent to the email address you entered when booking. If the voucher has not reached the mailbox after some time, check your spam folder. If there is no voucher there, please contact hoteliilid.ee customer service",
+    "goto_top":"Top"
+}

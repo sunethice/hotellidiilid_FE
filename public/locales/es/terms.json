@@ -1,0 +1,60 @@
+{
+    "heading":"Hotellidiilid.ee Terms and Conditions",
+    "description":"The following terms are valid from 01.05.2019. The terms will be applied to all bookings made at Hotellidiilid.ee. The Client will accept the terms by default once a booking has been made at Hotellidiilid.ee",
+    "point1":"Mõisted",
+    "point2":"Tasumine",
+    "point3":"Maksud ja lisatasud",
+    "point4":"Broneeringu muutmis- ja tühistamispoliitika",
+    "point5":"Majutuse ülebroneering",
+    "point6":"Reisidokumendid ja Voucher",
+    "point7":"Check-in ja check-out",
+    "point8":"Majutuse tärnid",
+    "point9":"Probleemid Teenusepakkuja pakutava teenusega",
+    "point10":"Tubade ja voodite asetus hotellis",
+    "point11":"Piirangud",
+    "point12":"Kliendi taganemisõigus",
+    "point13":"Isikuandmed ja Privaatsuspoliitika",
+    "point14":"Vastutus",
+
+    "desc1_1":"Agent – Reisidiilid OÜ (Registrikood: 12472112)",
+    "desc1_2":"Agent on Teenusepakkuja poolt osutatavate Reisiteenuste volitatud müügiagent ehk vahendaja. Agent ei ole Kliendi ja Teenusepakkuja vahel sõlmitud Reisiteenuse osutamise lepingu pooleks.",
+    "desc1_3":"Klient",
+    "desc1_4":"Füüsiline või juriidiline isik, kes kasutab Müügikeskkonda ja/või väljendab muul viisil huvi sõlmida või sõlmib Agendi vahendusel Teenusepakkujaga Reisiteenuse osutamise lepingu.",
+    "desc1_5":"Reisiteenus",
+    "desc1_6":"mistahes majutusega seonduv Teenusepakkuja teenus, mille Agent kättesaadavaks teeb aadressil",
+    "desc1_7":"Teenusepakkuja",
+    "desc1_8":"majutusasutus ehk majutusteenust (nt hotell, apartment, kämping jne) pakkuv ettevõte, kellega Klient avaldab soovi sõlmida ja/või sõlmib Reisiteenuse osutamise lepingu.",
+    "desc1_9":"Müügikeskkond",
+    "desc1_10":"Agendi poolt veebiaadressil www.hotellidiilid.ee kättesaadavaks tehtav broneerimissüsteem, mis kajastab reaalajas Teenusepakkujate poolt osutatavaid Reisiteenuseid.",
+    "desc1_11":"Voucher",
+    "desc1_12":"Agendi poolt Kliendile edastatav broneeringu kinnitus, mis tuleb majutusasutuses esitada ja mis tõendab teenuse saamise õigust Teenusepakkujalt vastavalt Voucheri peal kirjas olevas ulatuses. Voucher on elektroonilisel kujul, kuid Teenusepakkujale tuleks see Kliendil esitada väljaprinditud kujul.",
+
+      
+    "desc2_1":"Kui klient on Müügikeskkonnas tasunud majutusteenuse eest ja makse on laekunud, saadab süsteem talle automaatselt broneeringut tõendava Voucheri, mis tuleb kliendil esitada väljaprinditud kujul hotelli saabudes. Kui Voucherit ei ole kliendile tema sisestatud e-posti aadressile laekunud 24h jooksul peale broneeringu tasumist, tuleb kliendil sellest teada anda",
+    "desc2_2":"esimesel võimalusel.",
+    "desc2_3":"Hotellidiilid.ee keskkonnas saab maksta Maksekeskus AS pakutava makseliidese abil. Makseliides võimaldab maksta krediitkaardi kui ka pangalingiga (Eestis: Swedbank, SEB, Luminor, LHV, Coop, Pocopay ja Liisi ID). Aktsepteeritav valuuta on Euro.",
+
+    "desc3_1":"Majutusasutuse hinnale võivad lisanduda kohapeal kohalikud maksud (nt turismimaks), mis ei kajastu broneerides majutusasutuse hinnas ja mida saab tasuda vaid majutusastuses kohepeal. Need maksud varieeruvad sihtkohati ning võivad sõltuda majutuse tasemest. Need maksud tuleb Kliendil ise tasuda lisaks summale, mille maksis Klient broneeringut eest Agendile. Lisainfot kohalike maksude suuruse ja rakendumise kohta saab küsida",
+    "desc3_2":"või Teenusepakkujalt.",
+    "desc3_3":"Klient on kohustatud ise tasuma kõigi majutuses tehtud lisateenuste eest, mis ei sisaldu hinnas ehk ei kajastu Voucheril (nt täiendavad söögikorrad hotellis, minibaari kasutamine hotellis, spaateenused jms)",
+
+
+    "desc4":"Majutusega seotud muudatused ja tühistamised tuleb teha läbi Agendi ja vastavalt Teenusepakkuja kehtestatud reeglitele võib see olla tasuline. Tühistamisreeglid ja tasud on kirjas majutusastuse broneeringut tehes lingi all 'Majutuse tühistamispoliitika'. Kui hotelli broneeringu juures ei ole lisatud tühistamistingimusi, tuleb need üle küsida Agendiga ühendust võttes. Majutusastusse mitte saabumise korral või majutusasutusest enneaegse lahkumise (väljaregsitreerimise) korral ei ole Teenusepakkuja või Agent kohustatud Kliendile raha tagastama. Majutust broneerides nõustub klient tühistamis- ja muutmisreeglitega.",
+
+    "desc5":"Kui selgub, et majutusasutus on üle broneeritud (Teenusepakkuja on müünud rohkem tube, kui neil on saadavust), on Teenusepakkuja (vajadusel Agendi vahendusel) kohustatud Kliendile pakkuma sarnast alternatiivset majutust ning kui kliendile see alternatiiv ei sobi, siis kogu makstud raha kliendile tagastama.",
+    
+    "desc6":"Majutusastusse saabudes ja registreerudes tuleb üldjuhul kõikidel külastajatel esitada isiku tuvastamist võimaldav dokument (pass või ID-kaart ja vahel ka viisa) ja välja prinditud Voucher, mille edastab Agent broneeringu läbiviimise järel.",
+    "desc7_1":"Üldjuhul algab majutusasutusse sisseregistreerimine (check-in) kella 14.00–16.00 vahel sõltuvalt majutusastuse kehtestatud reeglitest. Kui klient jõuab majutusse peale kella 19 tuleks Kliendil sellest majutusasutust eelnevalt teavitada, kuna näiteks kõikides hotellides ei ole sisseregistreerimine 24h ööpäevas avatud. Majutusasutusega tuleks ka eelnevalt ühendst võtta, kui majutusasutusel puudub sisseregistreerimislaud (üldjuhul aparatamendid).",
+    "desc7_2":"Väljaregistreerimine (check-out) toimub üldjuhul kella 10.00–12.00 vahel sõltuvalt hotelli kehtestatud reeglitest. Hiline lahkumine (peale hotelli määratud väljaregisteerimise kellaaega) võib kaasa tuua lisatasu.",
+    
+    "desc8":"Majutuse (hotellide) tärnid on hinnang, mis viitab hotellide tasemele. Erinevates riikides võivad olla sama tärniga hotellid väga erineva tasemega. Hotellile antud tärnid võivad ajas muutuda ja seega ei pruugi Müügikeskkonnas märgitud tärnid vastata alati käesolevale tegelikkusele. Seetõttu tasuks enne broneerimist kontrollida tärnide aktuaalsus üle hotelli koduleheküljelt või küsida lisainfot Agendilt.",
+
+    "desc9":"Soovitame probleemide tekkimisel koheselt majutusasutuse vastuvõttu pöörduda – paljud probleemid saavad kohapeal kõige efektiivsemalt lahendatud. Agent pakub Müügikeskkonda majutusasutuse broneerimiseks ja ei vastuta Teenusepakkuja pakutava kohapealse teenuse kvaliteedi eest.",
+
+    "desc10":"Teenusepakkuja ei vastuta broneeritud voodite ja tubade asetuse eest. Näiteks ei saa Agent kahe toa broneerides garanteerida, et broneeritud toad on kõrvuti. Samuti ei saa Agent garanteerida, et majutusasutuses on saadaval kahe eraldi voodiga tuba või ühe suure voodiga tuba. Garanteeritud on, et Voucheril märgitud inimeste hulk tuppa mahutatakse, kuid voodite tüüp ja asetus sõltub majutusasutuse võimalustest (kui just ei ole voucheril konkreetselt välja toodud toa tüüp voodite asetuse järgi). Suuremates tubades kasutatakse üldjuhul lisaks põhivoodile ka lisavoodit või sohvavoodit.",
+    "desc11_1":"Osades islamiusulistes riikides (nt Araabia Ühendemiraadid) võivad naine ja mees osades majutusasutustes tuba jagada vaid juhul, kui ollakse abielus. Osades riikides (nt USA) võib majutusasutuse broneerimiseks nõutud olla vähemalt 21 aastat vanust. Osades riikides tuleb majautusse saabumisel esitada tagatiseks end isiklik krediitkaart.",
+    "desc11_2":"Agent ei vastuta, kui Klient ei ole välja selgitanud, kas majutuses esineb piiranguid ja seetõttu esineb tõrkeid teenuse saamisel. Infot piirangute kohta võib küsida kas majutusasutusega ühendust võttes või küsida Agendilt ",
+    "desc12":"Vastavalt Võlaõigusseadusele ei ole sidevahendi abil majutus-, toitlustus- ja vaba aja veetmise teenuse osutamiseks sõlmitud lepingutest taganemine lubatud (§ 53 lg 72). Kliendil tuleb arvestada, et eelnimetatud teenuste ostmisel puudub õigus kinnitatud tellimust 14 päeva jooksul tasuta tühistada. Tasuta tühistamine on võimalik juhul kui seda lubavad majutusasutuse tühistamispoliitika, millega klient saab tutvuda broneeringu tegemise käigus.",
+    "desc13":"Agent lähtub teenuse osutamisel Hotellidiilid.ee privaatsuspoliitikast, millega saab tutvuda meie Privaatsuspoliitika alt",
+    "desc14":"Kliendi ja Agendi vahelistele õigussuhetele kohaldatakse Eesti Vabariigi õigusakte. Vaidlused püütakse lahendada läbirääkimiste teel. Nende mittesaavutamisel lahendatakse vaidlused kas Tarbijavaidluste komisjon või Harju Maakohtus."
+}

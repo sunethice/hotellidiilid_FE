@@ -1,0 +1,33 @@
+{
+  "about": "About",
+  "sidebar_search":{
+      "enter_destination":"Enter Destination",
+      "check_in":"Check In",
+      "check_out":"Check Out",
+      "nights":"Nights",
+      "rooms":"Rooms",
+      "room":"Room",
+      "adults":"Adults",
+      "children":"Children",
+      "age_of_children":"Age of Children",
+      "search":"Search"
+   },
+   "filter_by_star_rating":"Filter By Star Rating",
+   "filter_by_hotel_name":"Filter By Hotel Name",
+   "filter_by_price":"Filter By price",
+   "filter_by_distance":"Filter By Distance from city",
+   "filter_by_trip_advisor":"Filter By Trip Advisor Ratings",
+   "filter_by_board_type":"Filter Results By Board Type",
+   "star":"Star",
+   "placeholders":{
+      "type_loc":"Type location",
+      "check_in":"Check-In",
+      "check_out":"Check-Out",
+      "no_of_nights":"No of Nights",
+      "enter_hotel" : "Enter hotel name"
+   },
+   "login":"Login",
+   "pev":"Previous",
+   "nxt":"Next",
+   "why_hotellidiilid.ee":"Why hotellidiilid.ee?"
+}

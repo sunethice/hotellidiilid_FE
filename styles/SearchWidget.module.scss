@@ -1,0 +1,53 @@
+.font_size_13 {
+   font-size: 13px;
+}
+.form_control {
+   font-size: 13px !important;
+   background-color: transparent !important;
+   color: #fff !important;
+   font-weight: 600 !important;
+   border-bottom: 1px solid #8c8c8c !important;
+   height:38px;
+   /* border-bottom: 1px solid #8c8c8c; */
+}
+
+.form_control input {
+   font-size: 13px;
+   background: transparent;
+   color: #fff;
+   font-weight: 600;
+   min-height: 38px;
+   /* border-bottom: 1px solid #8c8c8c; */
+}
+
+.form_control_select {
+   padding: unset;
+   border: none;
+}
+
+.group_styles {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.group_badge_styles {
+   background-color: #ebecf0;
+   border-radius: 2em;
+   color: #172b4d;
+   display: inline-block;
+   font-size: 12px;
+   font-weight: normal;
+   line-height: 1;
+   min-width: 1;
+   padding: 0.16666666666667em 0.5em;
+   text-align: center;
+}
+
+.room_row {
+   margin: 4px 1px;
+}
+
+.invalid_feedback{
+   color: #ff3d5e;
+}

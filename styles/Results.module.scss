@@ -1,0 +1,19 @@
+.results_page {
+   background-color: #f3f3f3;
+}
+
+.wrapper {
+   display: flex;
+   margin-top: 15px;
+   max-width: 1260px;
+   // margin-right: 0;
+}
+
+.google_map {
+   position: relative;
+   right: 0px;
+   // width: 330px !important;
+   height: auto !important;
+   background-color: #e0e0e0;
+   padding:0px;
+}

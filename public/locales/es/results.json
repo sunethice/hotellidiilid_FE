@@ -1,0 +1,21 @@
+{
+   "title": "Otsingutulemus",
+   "loading":"...Tulemuste laadimine",
+   "no_results":"Tulemusi ei leitud.",
+   "results_found":"tulemust",
+   "banner_nights":"ööks",
+   "sort":{
+      "PRLH": "Soodsamad enne",
+      "PRHL": "Kallimad enne",
+      "SRLH": "1-tärniga enne",
+      "SRHL": "5-tärniga enne",
+      "HNLH": "Hotelli nimi: A - Z",
+      "HNHL": "Hotelli nimi: Z - A"
+   },
+   "content_item":{
+      "reviews":"ülevaated",
+      "price_for":"Hind",
+      "select_hotel":"Vali Hotell",
+      "nights":"ööks"
+   }
+}

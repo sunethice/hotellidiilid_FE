@@ -1,0 +1,23 @@
+.banner_wrap {
+   background-color: #444;
+   color: #fff;
+   font-size: 18px;
+   font-weight: 400;
+   height: 56px;
+   text-align: center;
+
+   .banner_text {
+      display: flex;
+      justify-content: center;
+      line-height: 50px;
+   }
+}
+@media screen and (max-width: 500px){
+   .banner_wrap {
+      font-size: 10px;
+      height: 45px;
+      justify-content: center;
+      display: flex;
+      align-items: center;
+   }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Hotellidiilid.ee - soodsad hotellid-es",
+  "search_widget":{
+      "enter_destination":"Sihtkoht",
+      "check_in":"Saabumine",
+      "check_out":"Lahkumine",
+      "nights":"Ööd",
+      "rooms":"Toad",
+      "room":"Tuba",
+      "adults":"Täiskasvanud",
+      "children":"Lapsed",
+      "age_of_children":"Lapse vanus",
+      "search":"Otsi"
+   },
+   "placeholders":{
+      "type_loc":"Sisestage asukoht",
+      "check_in":"Saabumine",
+      "check_out":"Lahkumine",
+      "no_of_nights":"Ööde arv"
+   },
+   "popular_destinations":{
+      "heading":"Populaarsed sihtkohad",
+      "description_pt1":"Allpool on valik populaarsemaid sihtkohti ",
+      "description_pt2":"Kõiki sihtkohti vaata siit"
+   },
+   "advantages":{
+      "adv1":"Rohkem kui 170 000 majutust",
+      "adv2":"Soodsad hinnad",
+      "adv3":"Eestikeelne klienditeenindus",
+      "adv4":"Pangalingi ja krediitkaardi maksed"
+   },
+   "seasonal_offers" : "Kampaaniapakkumised",
+   "offer_description" : "Hetkel käimasolevad kampaaniad",
+   "search_availability" : "Kontrolli saadavust"
+}
